@@ -15,11 +15,11 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/To-toshka/Checklists.git)
+- [Test-Suites and Test-Cases](https://github.com/To-toshka/Test-Suites-and-Test-Cases.git)
+- [Bug-Reports](https://github.com/To-toshka/Bug-Reports.git)
+- [SQL Queries](https://github.com/To-toshka/SQL-Queries.git)
+- [Postman Collections](https://github.com/To-toshka/Postman-Collections.git)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
