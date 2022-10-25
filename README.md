@@ -2,15 +2,6 @@
 ## I'm a Junior QA Engineer. 
 
 
-## Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-- [Организация процесса тестирования &lpar;QA&rpar; на пальцах](https://www.youtube.com/watch?v=LoQUf0UREZ0)
-- [Портфолио для тестировщика &lpar;QA Engineer&rpar;](https://www.youtube.com/watch?v=ORSti2aYnEE)
-- [Фишки LinkedIn, которые помогут найти тебе работу тестировщиком &lpar;QA&rpar;](https://www.youtube.com/watch?v=u2Q_iTNRvD4)
-- [Команда разработки. Кто есть кто? Часть 2](https://www.youtube.com/watch?v=0cDLHfe9kP0)
-- [Команда разработки. Кто есть кто? Часть 1](https://www.youtube.com/watch?v=rE6vlyevZGo)
-<!-- YOUTUBE:END -->
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
