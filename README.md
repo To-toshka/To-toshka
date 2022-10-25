@@ -22,4 +22,4 @@
 - [Postman Collections](https://github.com/To-toshka/Postman-Collections.git)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=To-toshka&show_icons=true&theme=radical)
