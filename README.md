@@ -1,4 +1,4 @@
-[![Header] (https://raw.githubusercontent.com/To-toshka/To-toshka/main/assets/Frame%20635%20(3).png)]
+[![Header](https://raw.githubusercontent.com/To-toshka/To-toshka/main/assets/Frame%20635%20(3).png)]
 ## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
