@@ -1,5 +1,5 @@
 ![Header](https://raw.githubusercontent.com/To-toshka/To-toshka/main/assets/Frame%20635%20(3).png)
-## I'm a Junior QA Engineer. 
+## I'm a Junior IT specialist. 
 
 
 
