@@ -11,7 +11,7 @@
 ![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=EC8100)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgreSQL&logoColor=346993)
-![Header](https://img.shields.io/badge/SQLServer-090909?style=for-the-badge&logo=sqlserver&logoColor=DC2C23)
+![Header](https://img.shields.io/badge/MSSQL-090909?style=for-the-badge&logo=mssql&logoColor=DC2C23)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
