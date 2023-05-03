@@ -18,6 +18,10 @@
 
 ### Testing Documentation
 
+
+- [SQL Queries 04.23](https://github.com/To-toshka/04.2023-SQL-Queries.git)
+- [Excel VBA Project 04.23](https://github.com/To-toshka/04.2023-Excel-vba.git)
+- [Java Project 04.23](https://github.com/To-toshka/04.2023-Java.git)
 - [Checklists](https://github.com/To-toshka/Checklists.git)
 - [Test-Suites and Test-Cases](https://github.com/To-toshka/Test-Suites-and-Test-Cases.git)
 - [Bug-Reports](https://github.com/To-toshka/Bug-Reports.git)
