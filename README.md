@@ -8,7 +8,7 @@
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/AzureDevops-090909?style=for-the-badge&logo=azuredevops&logoColor=0074d0)
-![Header](https://icons8.com/icon/100506/Java-090909?style=for-the-badge&logo=java&logoColor=EC8100)
+![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=EC8100)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=#4479A1)
 ![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgreSQL&logoColor=#4169E1)
 ![Header](https://img.shields.io/badge/MSSQL-090909?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=#CC2927)
